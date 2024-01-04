@@ -1,7 +1,0 @@
-G:\My Drive\RiderProjects\Labs\Lab 13\Task 2\bin\Debug\Task_2.exe
-G:\My Drive\RiderProjects\Labs\Lab 13\Task 2\bin\Debug\Task_2.pdb
-G:\My Drive\RiderProjects\Labs\Lab 13\Task 2\obj\Debug\Task 2.csproj.AssemblyReference.cache
-G:\My Drive\RiderProjects\Labs\Lab 13\Task 2\obj\Debug\Task 2.csproj.SuggestedBindingRedirects.cache
-G:\My Drive\RiderProjects\Labs\Lab 13\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
-G:\My Drive\RiderProjects\Labs\Lab 13\Task 2\obj\Debug\Task_2.exe
-G:\My Drive\RiderProjects\Labs\Lab 13\Task 2\obj\Debug\Task_2.pdb
