@@ -1,0 +1,40 @@
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.exe
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.deps.json
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.runtimeconfig.json
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.dll
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.pdb
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.csproj.AssemblyReference.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4_MarkupCompile.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.g.resources
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.AssemblyInfoInputs.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.AssemblyInfo.cs
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.dll
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\refint\Task 4.dll
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.pdb
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.genruntimeconfig.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\ref\Task 4.dll
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.exe
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.deps.json
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.runtimeconfig.json
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.dll
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\bin\Debug\net7.0-windows\Task 4.pdb
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.csproj.AssemblyReference.cache
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\MainWindow.baml
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\App.g.cs
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4_MarkupCompile.cache
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.g.resources
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.AssemblyInfoInputs.cache
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.AssemblyInfo.cs
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.csproj.CoreCompileInputs.cache
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.dll
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\refint\Task 4.dll
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.pdb
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\Task 4.genruntimeconfig.cache
+G:\Мій диск\RiderProjects\Labs\Lab 9\Task 4\obj\Debug\net7.0-windows\ref\Task 4.dll

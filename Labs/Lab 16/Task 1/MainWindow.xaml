@@ -1,0 +1,17 @@
+﻿<Window x:Class="Task_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Grid HorizontalAlignment="Center">
+        <Button Name="ReadDataButton" Content="Read Data" Click="ReadDataButton_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <Label Content="Formula:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0"/>
+        <Label Name="FormulaDataLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="70,50,0,0"/>
+        <Button Name="ProcessDataButton" Content="Process Data" Click="ProcessDataButton_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0"/>
+        <Label Content="Result:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,120,0,0"/>
+        <Label Name="ResultDataLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="70,120,0,0"/>
+    </Grid>
+</Window>

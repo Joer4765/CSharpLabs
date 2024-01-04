@@ -1,0 +1,40 @@
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.exe
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.deps.json
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.runtimeconfig.json
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.dll
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.pdb
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.csproj.AssemblyReference.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1_MarkupCompile.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.g.resources
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.AssemblyInfoInputs.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.AssemblyInfo.cs
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.dll
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\refint\Task 1.dll
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.pdb
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.genruntimeconfig.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 12\Task 1\obj\Debug\net7.0-windows\ref\Task 1.dll
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.exe
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.deps.json
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.runtimeconfig.json
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.dll
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\bin\Debug\net7.0-windows\Task 1.pdb
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.csproj.AssemblyReference.cache
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\MainWindow.baml
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\App.g.cs
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1_MarkupCompile.cache
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.g.resources
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.AssemblyInfoInputs.cache
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.AssemblyInfo.cs
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.csproj.CoreCompileInputs.cache
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.dll
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\refint\Task 1.dll
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.pdb
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\Task 1.genruntimeconfig.cache
+G:\My Drive\RiderProjects\Labs\Lab 12\Task 1\obj\Debug\net7.0-windows\ref\Task 1.dll

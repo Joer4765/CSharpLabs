@@ -1,0 +1,19 @@
+﻿<Window x:Class="Task_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="525">
+    <StackPanel>
+        <Label Content="Input: " />
+        <TextBox x:Name="InputText" Width="200" Height="50" />
+        <Label Content="Enter subtext i: " />
+        <TextBox x:Name="IText" Width="200" Height="25" />
+        <Label Content="Enter replacement: " />
+        <TextBox x:Name="ReplText" Width="200" Height="25" />
+        <Label Content="Count of matches: " />
+        <TextBox x:Name="CountText" Width="200" Height="25" IsReadOnly="True" />
+        <Button x:Name="CountButton" Content="Count Match" Click="CountButton_Click" />
+        <Label Content="Output: " />
+        <TextBox x:Name="OutputText" Width="200" Height="50" IsReadOnly="True" />
+        <Button x:Name="ReplaceButton" Content="Replace Match" Click="ReplaceButton_Click" />
+    </StackPanel>
+</Window>

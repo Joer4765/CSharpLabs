@@ -1,0 +1,12 @@
+﻿<Window x:Class="Task_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MyApp" Height="400" Width="400">
+    <StackPanel>
+        <Label Content="Enter str:"/>
+        <TextBox x:Name="InputText" Height="200" TextWrapping="Wrap"/>
+        <Label Content="Output:"/>
+        <TextBox x:Name="OutputText" Height="50" IsReadOnly="True"/>
+        <Button x:Name="FuncButton" Content="Func" Click="FuncButton_Click"/>
+    </StackPanel>
+</Window>

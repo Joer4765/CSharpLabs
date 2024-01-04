@@ -1,0 +1,28 @@
+﻿<Window x:Class="Task_4_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Task 4 GUI" Width="855" Height="550">
+    <Grid>
+        <ListView Name="productListView" HorizontalAlignment="Left" Height="400" VerticalAlignment="Top" Width="800">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Назва продукту" Width="200" DisplayMemberBinding="{Binding Item1}"/>
+                    <GridViewColumn Header="Ціна" Width="100" DisplayMemberBinding="{Binding Item2}"/>
+                    <GridViewColumn Header="Категорія" Width="200" DisplayMemberBinding="{Binding Item3}"/>
+                    <GridViewColumn Header="Попит" Width="100" DisplayMemberBinding="{Binding Item4}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Назва продукту" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,420,0,0"/>
+        <TextBox Name="nameTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="10,440,0,0"/>
+        <Label Content="Ціна" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="220,420,0,0"/>
+        <TextBox Name="priceTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="220,440,0,0"/>
+        <Label Content="Категорія" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="330,420,0,0"/>
+        <TextBox Name="categoryTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="330,440,0,0"/>
+        <Label Content="Попит" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="540,420,0,0"/>
+        <TextBox Name="demandTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="540,440,0,0"/>
+        <Button Content="Додати" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="650,438,0,0" Click="AddProduct_Click"/>
+        <Button Content="Аналізувати" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="730,438,0,0" Click="Analyze_Click"/>
+        <Label Name="resultLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,470,0,0"/>
+    </Grid>
+</Window>

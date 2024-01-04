@@ -1,0 +1,42 @@
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.exe
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.deps.json
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.runtimeconfig.json
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.dll
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.pdb
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.csproj.AssemblyReference.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3_MarkupCompile.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3_MarkupCompile.lref
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.g.resources
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.AssemblyInfoInputs.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.AssemblyInfo.cs
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.dll
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\refint\Task 3.dll
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.pdb
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.genruntimeconfig.cache
+C:\Users\joert\My Drive\RiderProjects\WPF\WPF 04C Events in XAML\Lab 11\Task 3\obj\Debug\net7.0-windows\ref\Task 3.dll
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.exe
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.deps.json
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.runtimeconfig.json
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.dll
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\bin\Debug\net7.0-windows\Task 3.pdb
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.csproj.AssemblyReference.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3_MarkupCompile.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3_MarkupCompile.lref
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.g.resources
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.AssemblyInfoInputs.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.AssemblyInfo.cs
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.dll
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\refint\Task 3.dll
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.pdb
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\Task 3.genruntimeconfig.cache
+C:\Users\joert\My Drive\RiderProjects\Labs\Lab 11\Task 3\obj\Debug\net7.0-windows\ref\Task 3.dll

@@ -1,0 +1,7 @@
+G:\My Drive\RiderProjects\Labs\Lab 13\Task 5\bin\Debug\Task_5.exe
+G:\My Drive\RiderProjects\Labs\Lab 13\Task 5\bin\Debug\Task_5.pdb
+G:\My Drive\RiderProjects\Labs\Lab 13\Task 5\obj\Debug\Task 5.csproj.AssemblyReference.cache
+G:\My Drive\RiderProjects\Labs\Lab 13\Task 5\obj\Debug\Task 5.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\RiderProjects\Labs\Lab 13\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+G:\My Drive\RiderProjects\Labs\Lab 13\Task 5\obj\Debug\Task_5.exe
+G:\My Drive\RiderProjects\Labs\Lab 13\Task 5\obj\Debug\Task_5.pdb
